@@ -84,16 +84,7 @@ Now that you have created your first box and whisker plot, it's time to interpre
 
 [Towards Data Science: Understanding Box Plots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
 
-**Note:** You do not need to write or submit any answers for these questions. The goal is to think critically about your results. 
 
-1. What does the distribution of final tumor volumes look like for each regimen? Are there any drug regimens that look different from the other regimen results? 
-    
-2. What does it mean when a box of one drug regimen is smaller than another? Does that mean that data is missing? Why or why not?
-
-
-### Grading Rubric
-
-[Plotting with Matplotlib Rubric](Plotting_with_Matplotlib_Rubric.pdf)
 
 ---
 
