@@ -66,7 +66,7 @@ The steps for this project are broken down into two parts:
 
     * Added a label to the x-axis. 
     
-    * Showeded my plot in the notebook.
+    * Showed my plot in the notebook.
 
 
 
