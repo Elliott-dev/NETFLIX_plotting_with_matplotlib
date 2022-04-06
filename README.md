@@ -8,13 +8,11 @@ I will go through the steps of a basic data analysis and then visualize the data
 
 ## Instructions
 
-The instructions for this project are broken down into three parts: 
+The instructions for this project are broken down into two parts: 
 
 1. Data Cleaning 
 
 2. Data Analysis and Visualization 
-
-3. Interpret Your Findings 
 
 ### Part 1: Data Cleaning
      
@@ -70,9 +68,6 @@ The instructions for this project are broken down into three parts:
     
     * Showeded my plot in the notebook.
 
-
- 
-### Part 3: Interpret Your Findings
 
 
 
