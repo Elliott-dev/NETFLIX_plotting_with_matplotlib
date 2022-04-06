@@ -6,9 +6,9 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 I will go through the steps of a basic data analysis and then visualize the dataset by using a box and whisker plot. 
 
-## Instructions
+## Steps
 
-The instructions for this project are broken down into two parts: 
+The steps for this project are broken down into two parts: 
 
 1. Data Cleaning 
 
